@@ -88,7 +88,7 @@ body{
 
 .bg-warning{
 
-    padding-top: 100px;
+    padding-top: 50px;
 
 }
 
@@ -203,10 +203,27 @@ body{
     .ght{
     
         display: block;
-        position: relative;
-        top: 1650px;
+        position: relative!important;
+        top: 1831px!important;
 
+    }
+
+}
+
+@media (min-width: 320px) {
+
+    .ght{
     
+        display: block;
+        position: relative;
+        top: 2660px;
+    
+    }
+
+    .snb {
+        padding-bottom: 3px;
+        position: relative;
+        top: -10%;
     }
 
 }
