@@ -1,2 +1,3 @@
 # Webpage
-click here visit Webpage : https://jagapj.github.io/responsive-webpage/
+
+Click-link to visit output: https://jagapj.github.io/responsive-webpage/
